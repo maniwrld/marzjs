@@ -1,0 +1,25 @@
+{
+  "name": "@maniwrld/marzjs",
+  "version": "1.0.6",
+  "description": "A Node.js client for Marzban's API",
+  "main": "index.js",
+  "keywords": [
+    "marzban",
+    "api",
+    "vpn",
+    "nodejs",
+    "xray",
+    "v2rayng",
+    "hiddify",
+    "hysteria2",
+    "singbox"
+  ],
+  "author": "Mani Rahimi",
+  "license": "AGPL-3.0-only",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "joi": "^17.4.0",
+    "qs": "^6.10.1",
+    "ws": "^7.4.5"
+  }
+}
