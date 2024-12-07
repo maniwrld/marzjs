@@ -1435,7 +1435,7 @@ This project is licensed under the GNU Affero General Public License v3.0 (AGPL-
 
 ## 🏷️ Versioning
 
-Current Version: **1.0.6**  
+Current Version: **1.0.7**  
 We use [SemVer](http://semver.org/) for versioning.
 
 ## 💌 Support

@@ -1,6 +1,6 @@
 {
   "name": "@maniwrld/marzjs",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A Node.js client for Marzban's API",
   "main": "index.js",
   "keywords": [
