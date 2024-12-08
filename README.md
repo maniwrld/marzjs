@@ -1,4 +1,4 @@
-# 🌐 MarzJS - Development
+# 🌐 MarzJS
 
 A powerful and easy-to-use Node.js client for interacting with the Marzban Panel API.
 
