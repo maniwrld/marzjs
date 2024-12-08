@@ -1416,6 +1416,34 @@ The library provides comprehensive error handling:
 - Detailed error messages
 - Joi input validation
 
+## 🗺️ Roadmap & Community Forks
+
+### 📍 Future Development Roadmap
+- [ ] Add TypeScript type definitions
+- [ ] Implement comprehensive unit and integration tests
+- [ ] Enhance WebSocket logging with more filtering options
+- [ ] Create detailed documentation with more comprehensive examples
+- [ ] Add support for more advanced authentication methods
+- [ ] Implement rate limiting and advanced retry strategies
+- [ ] Develop a CLI tool for MarzJS
+
+### 🌐 Supporting Marzban Forks
+MarzJS aims to maintain compatibility with various Marzban forks to provide a versatile API client:
+
+#### 1. Marzneshin
+- **Repository**: [https://github.com/marzneshin/marzneshin](https://github.com/marzneshin/marzneshin)
+- **Status**: Active development
+- **Compatibility**: Ongoing testing and support planned
+- **Key Features**: Enhanced UI, additional management tools
+
+#### 2. MarzGosha
+- **Repository**: [https://github.com/GFWFuckers/MarzGosha](https://github.com/GFWFuckers/MarzGosha)
+- **Status**: Community-driven fork
+- **Compatibility**: Preliminary support
+- **Unique Characteristics**: Community modifications and extensions
+
+*Note: Compatibility with these forks is an active area of development. Community feedback and contributions are welcome!*
+
 ## 📝 Requirements
 
 - Node.js 12.0.0 or higher
