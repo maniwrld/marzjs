@@ -1,18 +1,26 @@
 {
   "name": "@maniwrld/marzjs",
-  "version": "1.0.7",
-  "description": "A Node.js client for Marzban's API",
+  "version": "1.0.8",
+  "description": "A powerful and easy-to-use Node.js client for interacting with Marzban's VPN management API. It supports popular protocols like Xray, V2Ray, and more.",
   "main": "index.js",
   "keywords": [
     "marzban",
     "api",
     "vpn",
     "nodejs",
+    "proxy",
     "xray",
+    "v2ray",
     "v2rayng",
     "hiddify",
     "hysteria2",
-    "singbox"
+    "singbox",
+    "javascript",
+    "client",
+    "networking",
+    "http",
+    "websocket",
+    "axios"
   ],
   "author": "Mani Rahimi",
   "license": "AGPL-3.0-only",
@@ -21,5 +29,13 @@
     "joi": "^17.4.0",
     "qs": "^6.10.1",
     "ws": "^7.4.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maniwrld/marzjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maniwrld/marzjs/issues"
+  },
+  "homepage": "https://github.com/maniwrld/marzjs#readme"
 }
