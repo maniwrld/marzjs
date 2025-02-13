@@ -1,6 +1,6 @@
 {
   "name": "@maniwrld/marzjs",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A powerful and easy-to-use Node.js client for interacting with Marzban's VPN management API. It supports popular protocols like Xray, V2Ray, and more.",
   "main": "index.js",
   "keywords": [
@@ -25,7 +25,7 @@
   "author": "Mani Rahimi",
   "license": "AGPL-3.0-only",
   "dependencies": {
-    "axios": "^0.21.4",
+    "axios": "^0.28.0",
     "joi": "^17.4.0",
     "qs": "^6.10.1",
     "ws": "^7.4.5"
